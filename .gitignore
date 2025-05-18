@@ -1,0 +1,6 @@
+/.pytest_cache
+/.env
+/Chinook_Sqlite.sqlite
+/netflixdb.sqlite
+/{db_path}
+/test.db

@@ -1,0 +1,10 @@
+fastapi==0.115.11
+huggingface==hub-0.29.3
+langchain_core==0.3.51
+langchain-google-genai==2.1.4
+langchain_huggingface==0.1.2
+langgraph==0.3.25
+pytest==8.3.5
+python-dotenv==1.0.1
+psycopg2-binary==2.9.10
+uvicorn==0.34.0

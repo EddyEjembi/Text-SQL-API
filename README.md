@@ -9,13 +9,10 @@ A lightweight, agent-based Text-to-SQL system. This API lets users connect to su
 
 ✅ Multi-Provider Model Support — bring your own OpenAI, Gemini, or other LangChain-compatible models.
 
-✅ LangGraph Agent for structured, stateful reasoning and tool-based query generation.
-
 ✅ Tool-Driven Workflow for listing tables, getting schemas, validating, and executing queries.
 
 ✅ FastAPI-powered REST API interface for integration.
 
-✅ Modular, extensible design for adding more databases, models, and workflows.
 
 ## 📡 API Endpoints
 
@@ -81,6 +78,6 @@ uvicorn api.server:app --reload
 # Connect With Me
 connect with me on any of the platform:
 
-- [🐦 X (Twitter)](https://x.com/eddyejembi)
-- [💼 LinkedIn](https://www.linkedin.com/in/eddyejembi/)
-- [📬 Mail](mailto:eddyejembi2018@gmail.com)
+- 🐦[ X (Twitter)](https://x.com/eddyejembi)
+- 💼[ LinkedIn](https://www.linkedin.com/in/eddyejembi/)
+- 📬[ Mail](mailto:eddyejembi2018@gmail.com)
